@@ -7,6 +7,7 @@
       <div class="content-main">
         <img src="@/assets/images/tiny-logo.png" class="image" />
         <h3 class="tip">{{ $t('exception.result.demo.description') }}</h3>
+        test
       </div>
     </div>
   </div>
